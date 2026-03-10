@@ -1,6 +1,13 @@
-# dida-skill 🦞✅
+# dida-mcp 🦞✅
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Python 3.9+](https://img.shields.io/badge/Python-3.9+-blue.svg)](https://www.python.org/downloads/)
+[![MCP Protocol](https://img.shields.io/badge/MCP-Compatible-green.svg)](https://modelcontextprotocol.io)
+[![GitHub release](https://img.shields.io/github/v/release/Martinqi826/dida-mcp)](https://github.com/Martinqi826/dida-mcp/releases)
 
 **滴答清单 (Dida365) MCP Server** — 让 AI 助手控制你的滴答清单。
+
+> 🎯 **首个支持中国版滴答清单 (dida365.com) 的 MCP Server**，13 个 AI 工具覆盖任务、项目、标签管理。
 
 适用于 [OpenClaw (龙虾)](https://openclaw.ai)、[Claude Desktop](https://claude.ai)、[CodeBuddy](https://www.codebuddy.ai/) 以及任何支持 MCP 协议的 AI 客户端。
 
