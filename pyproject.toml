@@ -6,7 +6,7 @@ readme = "README.md"
 requires-python = ">=3.9"
 license = {text = "MIT"}
 authors = [
-    {name = "dida-skill contributors"},
+    {name = "dida-mcp contributors"},
 ]
 keywords = ["mcp", "dida365", "ticktick", "todo", "ai", "openclaw"]
 classifiers = [
@@ -31,9 +31,9 @@ dependencies = [
 dida-mcp = "dida_mcp.cli:main"
 
 [project.urls]
-Homepage = "https://github.com/Martinqi826/dida-skill"
-Repository = "https://github.com/Martinqi826/dida-skill"
-Issues = "https://github.com/Martinqi826/dida-skill/issues"
+Homepage = "https://github.com/Martinqi826/dida-mcp"
+Repository = "https://github.com/Martinqi826/dida-mcp"
+Issues = "https://github.com/Martinqi826/dida-mcp/issues"
 
 [build-system]
 requires = ["hatchling"]

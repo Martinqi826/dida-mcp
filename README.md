@@ -34,8 +34,8 @@
 ### 2. 安装
 
 ```bash
-git clone https://github.com/Martinqi826/dida-skill.git
-cd dida-skill
+git clone https://github.com/Martinqi826/dida-mcp.git
+cd dida-mcp
 pip install -e .
 ```
 
@@ -200,7 +200,7 @@ AI 就会调用 `mcporter call dida-mcp.get_projects` 并返回结果。
 ## 🔧 项目结构
 
 ```
-dida-skill/
+dida-mcp/
 ├── pyproject.toml              # 项目配置
 ├── LICENSE                     # MIT 许可证
 ├── README.md                   # 本文档
